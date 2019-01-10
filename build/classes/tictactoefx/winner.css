@@ -1,0 +1,4 @@
+.winner {
+	-fx-font-weight: bold;
+	-fx-text-fill: green;
+}
